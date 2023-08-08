@@ -1,0 +1,24 @@
+.main{
+    text-align:center;
+    margin:70px;
+    border:2px solid grey;
+    width:80%;
+    background-color: darkcyan;
+    color: black;
+}
+
+.inp{
+    width: 250px;
+    height: 50px;
+    border: 2px solid grey;
+    background-color: white;
+    color: black;    
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    color: darkorange;
+    border: 2px solid darkorange;
+}
